@@ -40,7 +40,7 @@
          element.style.backgroundColor = miColorAzul ;
        });
      } else {
-       // Regresar al modo claro
+       // Regresar al modo claro regresando del modo oscuro
 
        body.style.backgroundColor = 'white';
        contentVerbElements.forEach(element => {
