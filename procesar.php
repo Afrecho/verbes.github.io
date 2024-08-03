@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <?php
 
 // **Detalles de Conexión a la Base de Datos **
@@ -80,4 +80,4 @@ if ($conn->query($sql) === TRUE) {
 $conn->close();
 
 ?>
->>>>>>> 0be79e969c98c21a4c5c699ce8f12d11e1e4bee7
+
