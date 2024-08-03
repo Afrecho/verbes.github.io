@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <?php
 
 header("Access-Control-Allow-Origin: *");
@@ -72,4 +72,3 @@ if ($result->num_rows > 0) {
 $conn->close();
 
 ?>
->>>>>>> 0be79e969c98c21a4c5c699ce8f12d11e1e4bee7
